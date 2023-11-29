@@ -1,3 +1,3 @@
 # Github-userProfile-Fetch
-<h1>This project is used to fetch the user details from the github server. We have used async-await and dom to display the details.</h1>
+<h5>This project is used to fetch the user details from the github server. We have used async-await and dom to display the details.</h5>
 
