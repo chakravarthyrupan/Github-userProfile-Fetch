@@ -48,7 +48,7 @@ async function getRepo(userName) {
    <div class="card-subHeading">${projects[i].language}</div>
    <div class="card-text">
 <button>
-   <a href=${projects[i].html_url} target="_blank">Visit Projects</a>
+   <a href=${projects[i].html_url} target="_blank">Visit Repo</a>
    </button>
    </div>
    </div>
